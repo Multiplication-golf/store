@@ -1,0 +1,11 @@
+:root {
+  color: lightgrey;
+}
+
+.main {
+  color: white;
+  border-radius: 20px;
+  width: 100%;
+  height:100vh;
+  border:white solid 5px;
+}
